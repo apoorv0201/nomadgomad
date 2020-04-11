@@ -1,4 +1,7 @@
-{
+"scripts": {
+    "start": "app.js"
+ },
+ {
   "name": "nodetest",
   "version": "1.0.0",
   "description": "tesing",
